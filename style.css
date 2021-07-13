@@ -1,0 +1,14 @@
+.bedroom {
+    border-radius: 20px;
+    width: 300px;
+    font-size: 23px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+.bedroom:hover {
+    text-decoration: none;
+    color: white;
+}
+body {
+    background-size: cover;
+}

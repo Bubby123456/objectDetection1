@@ -1,0 +1,14 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    font-family: monospace;
+    margin: 0px;
+}
+canvas {
+    border-radius: 10px;
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px white;
+}
+#number_of_objects,#status {
+    font-size: 18px;
+}
